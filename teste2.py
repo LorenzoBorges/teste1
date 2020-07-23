@@ -1,1 +1,2 @@
-print('Estou printando um texto teste')
+print('Anor Londo')
+print('Firelink Shrine')
